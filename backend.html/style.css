@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    padding: 0.5cm;
+    text-decoration: underline;
+}
+.texto {
+    text-align: center;
+}
+#final {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3cm;
+}
+#linha1 > div {
+    width: 50%;
+    padding: 1cm;
+}
+.contato {
+    padding: 0.5cm;
+    text-align: center;
+}
+.endereço {
+    padding: 0.5cm;
+    text-align: center;
+}
